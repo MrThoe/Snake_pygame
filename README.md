@@ -4,7 +4,7 @@
 
 In the terminal, type:
 
-pip install pygame
+# pip install pygame #
 
 For docs, visit the website:
 
